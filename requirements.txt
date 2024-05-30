@@ -1,0 +1,6 @@
+Pandas==2.0.3
+NumPy==1.25.2
+Matplotlib==3.7.1
+Seaborn==0.13.1
+TensorFlow==2.15.0
+scikit-learn==1.2.2
